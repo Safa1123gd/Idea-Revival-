@@ -1,0 +1,6 @@
+{
+  "name": "Idea Revival Platform",
+  "description": "Connect dormant concepts with passionate builders through a 5-stage revival lifecycle, weighted scoring engine, and collaborative adoption protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
